@@ -1,3 +1,4 @@
 Mars is red.
 Mars is the fourth planet in the solar system. 
 Mars is the second closest planet to earth.
+Venus is the new destination.
