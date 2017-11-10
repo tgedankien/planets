@@ -1,1 +1,4 @@
 venus.txt
+*.dat
+!c.dat
+results/
